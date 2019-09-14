@@ -1,0 +1,10 @@
+{
+  "recordSetCount": "1",
+  "resourceId": "http://localhost:80/wcs/resources/store/2/productview/LA042_4201",
+  "CatalogEntryView": [{
+    "shortDescription": "Energy-efficient, screw-in spiral bulb",
+    "title": "Compact Fluorescent Bulb | AuroraB2BESite",
+    "name": "Compact Fluorescent Bulb",
+    "uniqueID": "13842"
+  }]
+}
